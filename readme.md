@@ -1,19 +1,26 @@
-﻿\1) To run the first problem part1
+### To run the first problem part1
 
+```
 python p1part1.py
+```
 
-\2) To run the first problem part2
+### To run the first problem part2
 
+```
 python p1part2.py
+```
 
-\3) To run the second problem part1
+### To run the second problem part1
 
+```
 python p2part1.py
+```
 
-\4) To run the second problem part2
+### To run the second problem part2
 
+```
 python p2part2.py
-
+```
 
 Link to videos: https://drive.google.com/drive/folders/1Zp5wqi7rma7ZyGNpzzZj9TL5-I-38xSs?usp=sharing
 
